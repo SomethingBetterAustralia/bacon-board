@@ -7,7 +7,7 @@ We'll name a person (or perhaps a coversation theme) we want to chat to, and the
 
 ## Why this exists
 
-The people most worth talking to are the hardest to reach. Cold email gets deleted, unsolicited DMs get ignored. Yet nearly everyone in Australia is a handful of warm introductions away from nearly everyone else — the network exists; what's missing is a purposeful way to traverse it. Bacon Board is an attempt to build that traversal as open source, with consent engineered in from the first commit.
+Sometimes the people you want to talk to most are the hardest to reach. Cold email gets deleted, unsolicited DMs get ignored. Yet nearly everyone in Australia is a handful of warm introductions away from nearly everyone else — the network exists; what's missing is a purposeful way to traverse it. Bacon Board is an attempt to build that traversal as open source, with consent engineered in from the first commit.
 
 ## Project status: zero
 
@@ -19,13 +19,13 @@ There is no code in this repository yet.
 2. **You start an endorsement.** Request a private link from the quest page. The link is yours, and it has five charges.
 3. **You forward to five people.** People you trust who you think are closer to the destination than you are. When someone clicks your link, the system mints them a new private link with its own five charges.
 4. **The endorsement branches outward.** Each forwarder learns the destination's name only at the moment they decide to forward, so they can choose who's closer. Degrees of separation and elapsed time are tracked.
-5. **It closes through a warm introduction.** The closing forwarder — someone who personally knows the destination — makes a discreet introduction on SBA's behalf. Accept, and it's recorded and can be closed publicly. Decline, and it ends quietly; no second endorsement is ever started toward that person.
+5. **It closes through a warm introduction.** The closing forwarder — someone who personally knows the destination — makes an introduction on SBA's behalf. Accept, and it's recorded and can be closed publicly. Decline, and it ends quietly; no second endorsement is ever started toward that person.
 
 Quests have four states — open, in motion, closed-accepted, closed-declined — and SBA publishes every outcome, including the declines. Your shortest path from forwarder to destination, counted in warm introductions, is your Bacon number; it feeds a leaderboard of top connectors.
 
 ## What Bacon Board is not
 
-Bacon Board is not cold outreach, not a mass-messaging or growth-hacking tool, and not a way to pressure or dox anyone. It is consent-first and introduction-based: names surface only when a destination accepts, connectors are anonymous by default, and every decline is respected permanently. A forwarding game that doesn't hold those lines is just spam with extra steps. 
+Bacon Board is not cold outreach, not a mass-messaging or growth-hacking tool, and not a way to pressure or dox anyone. It is consent-first and introduction-based: connectors are anonymous by default, and every decline is respected permanently. A forwarding game that doesn't hold those lines is just spam with extra steps. 
 
 ## Contributing — who we need
 
